@@ -1,0 +1,110 @@
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 6px;
+}
+
+.back-to-amazon {
+  padding-left: 6px;
+  font-family: arial;
+  color: rgb(20, 123, 149);
+  font-size: 15px;
+}
+
+.ad-nikeshoes {
+  font-size: 23px;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 1px 6px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.price-shoes {
+  color: rgb(7, 151, 7);
+  font-weight: bold;
+  font-size: 13px;
+  padding: 1px 6px;
+}
+
+.description-shoes{
+  font-size: 13px;
+}
+
+.add-to-cart {
+  background-color: rgb(255, 228, 55);
+  border: none;
+  height: 28px;
+  width: 110px;
+  border-radius: 14px;
+  cursor: pointer;
+  padding-right: 6px;
+  margin-right: 10px;
+}
+
+.add-to-cart:hover {
+  background-color: rgb(231, 202, 15);
+}
+
+.add-to-cart:active {
+  opacity: 0.7;
+}
+
+.buy-now {
+  background-color: rgb(245, 176, 1);
+  border: none;
+  height: 28px;
+  width: 110px;
+  border-radius: 14px;
+  cursor: pointer;
+  padding-left: 6px;
+}
+
+.buy-now:hover {
+  background-color: rgb(219, 158, 2);
+}
+
+.buy-now:active {
+  opacity: 0.7;
+}
+
+.um {
+  border: none;
+  background: none;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.dois {
+  border: none;
+  background: none;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.tres {
+  border: none;
+  background: none;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.quatro {
+  border: none;
+  background: none;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.cinco {
+  border: none;
+  background: none;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 16px;
+}
